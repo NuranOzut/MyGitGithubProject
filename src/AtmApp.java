@@ -8,5 +8,8 @@ public class AtmApp {
         //version4
         System.out.println("Git i öğrenmek çok kolay");
         System.out.println("Nuran branch i yeni bir özellik ekledi");
+
+        //master
+        System.out.println("Master branchinde yeni bir özellik var");
     }
 }
